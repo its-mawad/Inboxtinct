@@ -1,6 +1,6 @@
-# Project Title
+# Inboxtinct
 
-Inboxtinct
+
 ## Summary
 
 Inboxtinct is an intelligent system that uses artificial intelligence techniques to accurately classify email messages as either "spam" or "legitimate." The goal of the project is to reduce the number of unwanted messages reaching users, improving the overall email experience and enhancing cybersecurity.
